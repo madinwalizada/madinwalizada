@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Madina 👋
 
-<!--
-**madinwalizada/madinwalizada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Engineer based in the Bay Area, focused on building 
+clean and data-driven web applications.
 
-Here are some ideas to get you started:
+## Tech Stack
+React · Next.js · TypeScript · Tailwind CSS · Supabase
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- [AnalyticsPro](https://analytics-dashboard-qdtm.vercel.app) — Full-stack business analytics dashboard
+- [Applyflow](https://applyflow-delta.vercel.app) — Job application tracker
+
+## Currently
+Open to Frontend Engineer roles in the Bay Area
