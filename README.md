@@ -1,4 +1,4 @@
-# Hi, I'm Madina 👋
+# Hi, I'm Madina 
 
 Frontend Engineer based in the Bay Area, focused on building 
 clean and data-driven web applications.
